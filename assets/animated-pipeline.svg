@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="150" viewBox="0 0 960 150">
+<defs>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop offset="0" stop-color="#58a6ff"/>
+    <stop offset="1" stop-color="#2f81f7"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="960" height="150" rx="18" fill="#0d1117" stroke="#30363d"/>
+<text x="480" y="28" text-anchor="middle" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2">LIVE AUTOMATION PIPELINE</text>
+
+<path d="M100 78H860" stroke="#21262d" stroke-width="8" stroke-linecap="round"/>
+<path d="M100 78H860" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="18 18">
+  <animate attributeName="stroke-dashoffset" values="72;0" dur="1.7s" repeatCount="indefinite"/>
+</path>
+
+<g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" text-anchor="middle">
+  <g transform="translate(100 78)">
+    <circle r="27" fill="#101820" stroke="#2f81f7"/>
+    <text y="4" fill="#f0f6fc">M365</text>
+    <text y="48" fill="#8b949e">Cloud</text>
+  </g>
+  <g transform="translate(290 78)">
+    <circle r="27" fill="#101820" stroke="#2f81f7"/>
+    <text y="4" fill="#f0f6fc">Entra</text>
+    <text y="48" fill="#8b949e">Identity</text>
+  </g>
+  <g transform="translate(480 78)">
+    <circle r="27" fill="#101820" stroke="#2f81f7"/>
+    <text y="4" fill="#f0f6fc">Intune</text>
+    <text y="48" fill="#8b949e">Devices</text>
+  </g>
+  <g transform="translate(670 78)">
+    <circle r="27" fill="#101820" stroke="#2f81f7"/>
+    <text y="4" fill="#f0f6fc">PS</text>
+    <text y="48" fill="#8b949e">PowerShell</text>
+  </g>
+  <g transform="translate(860 78)">
+    <circle r="27" fill="#101820" stroke="#2f81f7"/>
+    <text y="4" fill="#f0f6fc">AUTO</text>
+    <text y="48" fill="#8b949e">Automation</text>
+  </g>
+</g>
+
+<circle r="7" fill="#58a6ff" filter="url(#glow)">
+  <animateMotion dur="4.2s" repeatCount="indefinite" path="M100 78H860"/>
+</circle>
+<circle r="4" fill="#39d353">
+  <animateMotion dur="4.2s" begin="1.4s" repeatCount="indefinite" path="M100 78H860"/>
+</circle>
+<circle r="4" fill="#d2a8ff">
+  <animateMotion dur="4.2s" begin="2.8s" repeatCount="indefinite" path="M100 78H860"/>
+</circle>
+</svg>
