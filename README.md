@@ -146,9 +146,12 @@ I particularly enjoy projects that connect systems, simplify administration and 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abderlahmanalhnedi&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub Stats" />
+[![Followers](https://img.shields.io/github/followers/abderlahmanalhnedi?style=for-the-badge&logo=github&label=Followers)](https://github.com/abderlahmanalhnedi?tab=followers)
+[![Stars](https://img.shields.io/github/stars/abderlahmanalhnedi?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars)](https://github.com/abderlahmanalhnedi?tab=repositories)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderlahmanalhnedi&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages" />
+<br><br>
+
+**Explore my work →** [Repositories](https://github.com/abderlahmanalhnedi?tab=repositories) · [Projects](https://github.com/abderlahmanalhnedi?tab=projects)
 
 </div>
 
