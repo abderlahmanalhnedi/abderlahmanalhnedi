@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="205" viewBox="0 0 960 205">
+<defs>
+  <linearGradient id="pipeLine" x1="0" x2="1">
+    <stop offset="0" stop-color="#58a6ff"/>
+    <stop offset="1" stop-color="#2f81f7"/>
+  </linearGradient>
+  <filter id="pipeGlow">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <style>
+    .title{fill:#8b949e;font-family:Arial,Helvetica,sans-serif;font-size:13px;letter-spacing:2px}
+    .label{fill:#f0f6fc;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700}
+    .sub{fill:#8b949e;font-family:Arial,Helvetica,sans-serif;font-size:11px}
+  </style>
+
+  <!-- Microsoft 365 gradients -->
+  <radialGradient id="m365a" cx="-44.794" cy="657.774" r="11.637" gradientTransform="matrix(-11.7002 31.247 54.5012 20.4075 -36194.156 -11923.366)" gradientUnits="userSpaceOnUse">
+    <stop offset=".064" stop-color="#ae7fe2"/><stop offset="1" stop-color="#0078d4"/>
+  </radialGradient>
+  <linearGradient id="m365b" x1="253.635" x2="198.236" y1="138.912" y2="234.727" gradientTransform="matrix(1 0 0 -1 0 514)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#114a8b"/><stop offset="1" stop-color="#0078d4" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="m365c" cx="-47" cy="627.798" r="11.637" gradientTransform="matrix(30.7198 -4.5183 -2.9847 -20.2925 3415.678 12926.943)" gradientUnits="userSpaceOnUse">
+    <stop offset=".134" stop-color="#d59dff"/><stop offset="1" stop-color="#5e438f"/>
+  </radialGradient>
+  <linearGradient id="m365d" x1="389.743" x2="330.378" y1="281.462" y2="196.34" gradientTransform="matrix(1 0 0 -1 0 514)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#493474"/><stop offset="1" stop-color="#8c66ba" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="m365e" cx="-70.906" cy="659.478" r="11.637" gradientTransform="matrix(-24.1583 -6.1256 -10.3118 40.6682 5541.9 -26969.008)" gradientUnits="userSpaceOnUse">
+    <stop offset=".058" stop-color="#50e6ff"/><stop offset="1" stop-color="#436dcd"/>
+  </radialGradient>
+  <linearGradient id="m365f" x1="174.261" x2="261.665" y1="345.286" y2="345.286" gradientTransform="matrix(1 0 0 -1 0 514)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#2d3f80"/><stop offset="1" stop-color="#436dcd" stop-opacity="0"/>
+  </linearGradient>
+
+  <!-- Intune gradients -->
+  <linearGradient id="intune0" x1="171.501" y1="396.026" x2="314.256" y2="90.5646" gradientUnits="userSpaceOnUse">
+    <stop offset="0.02" stop-color="#1169DA"/><stop offset=".434784" stop-color="#0151BD"/><stop offset=".614436" stop-color="#014DB7"/><stop offset="1" stop-color="#126AD9"/>
+  </linearGradient>
+  <radialGradient id="intune1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(358.656 -48.704) rotate(110.224) scale(292.248 218.917)">
+    <stop offset=".422966" stop-color="#004AFF" stop-opacity=".1"/><stop offset=".728672" stop-color="#014DB9"/><stop offset=".836135" stop-color="#014DB9" stop-opacity=".9"/><stop offset=".955" stop-color="#014DB9" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="intune2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(54.0821 384.087) rotate(-73.6432) scale(232.668 283.419)">
+    <stop offset=".0908532" stop-color="#004AFF" stop-opacity=".1"/><stop offset=".56036" stop-color="#014DB9"/><stop offset=".749466" stop-color="#014DB9" stop-opacity=".99"/><stop offset="1" stop-color="#014DB9" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="intune3" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(439.444 5.40101) rotate(134.068) scale(563.957 434.374)">
+    <stop offset=".249322" stop-color="#23C0FE"/><stop offset=".717207" stop-color="#23C0FE"/><stop offset=".995168" stop-color="#1C91FF"/>
+  </radialGradient>
+  <linearGradient id="intune6" x1="114.72" y1="97.5227" x2="182.067" y2="383.699" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#92EEFE"/><stop offset=".564559" stop-color="#35DDFF"/><stop offset="1" stop-color="#08B1F9"/>
+  </linearGradient>
+
+  <!-- Power Automate gradients -->
+  <linearGradient id="pa0" x1="43" y1="55" x2="29" y2="10" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0D36A5"/><stop offset="1" stop-color="#1152D4"/>
+  </linearGradient>
+  <linearGradient id="pa1" x1="46" y1="10" x2="46" y2="86" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#84CAFF"/><stop offset="1" stop-color="#61B1FB"/>
+  </linearGradient>
+  <linearGradient id="pa2" x1="37.5" y1="10" x2="37.5" y2="86" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#3B90F5"/><stop offset="1" stop-color="#2A78EE"/>
+  </linearGradient>
+</defs>
+
+<rect width="960" height="205" rx="18" fill="#0d1117" stroke="#30363d"/>
+<text x="480" y="28" text-anchor="middle" class="title">LIVE AUTOMATION PIPELINE</text>
+
+<path d="M100 91H860" stroke="#21262d" stroke-width="10" stroke-linecap="round"/>
+<path d="M100 91H860" stroke="url(#pipeLine)" stroke-width="3" stroke-linecap="round" stroke-dasharray="18 18">
+  <animate attributeName="stroke-dashoffset" values="72;0" dur="1.7s" repeatCount="indefinite"/>
+</path>
+
+<circle r="7" fill="#58a6ff" filter="url(#pipeGlow)">
+  <animateMotion dur="4.2s" repeatCount="indefinite" path="M100 91H860"/>
+</circle>
+<circle r="4" fill="#39d353">
+  <animateMotion dur="4.2s" begin="1.4s" repeatCount="indefinite" path="M100 91H860"/>
+</circle>
+<circle r="4" fill="#d2a8ff">
+  <animateMotion dur="4.2s" begin="2.8s" repeatCount="indefinite" path="M100 91H860"/>
+</circle>
+
+<!-- Microsoft 365 official icon -->
+<g transform="translate(100 91)">
+  <circle r="34" fill="#101820" stroke="#2f81f7" stroke-width="2"/>
+  <g transform="translate(-18 -19) scale(.078)">
+    <path d="m210.4 11.9-2.6 1.6q-6.3 3.75-11.7 8.4l7.5-5.3h64l11.6 88.1-58.2 58.2-58.2 40.4V250c0 32.6 17 62.8 44.9 79.6l61.3 37.1-129.4 75.5h-25L68.2 414c-27.9-16.9-44.9-47.1-44.9-79.6V177.6c0-32.6 17-62.8 44.9-79.7l139.6-84.5c.9-.5 1.8-1 2.6-1.5" fill="url(#m365a)"/>
+    <path d="m210.4 11.9-2.6 1.6q-6.3 3.75-11.7 8.4l7.5-5.3h64l11.6 88.1-58.2 58.2-58.2 40.4V250c0 32.6 17 62.8 44.9 79.6l61.3 37.1-129.4 75.5h-25L68.2 414c-27.9-16.9-44.9-47.1-44.9-79.6V177.6c0-32.6 17-62.8 44.9-79.7l139.6-84.5c.9-.5 1.8-1 2.6-1.5" fill="url(#m365b)"/>
+    <path d="M349.1 197.8v52.1c0 32.6-17 62.8-44.9 79.6L164.6 414c-28.6 17.4-64.1 18-93.2 2l136.4 82.6c29.6 17.9 66.8 17.9 96.4 0L443.8 414c27.9-16.9 44.9-47.1 44.9-79.6v-37.7l-11.6-17.5z" fill="url(#m365c)"/>
+    <path d="M349.1 197.8v52.1c0 32.6-17 62.8-44.9 79.6L164.6 414c-28.6 17.4-64.1 18-93.2 2l136.4 82.6c29.6 17.9 66.8 17.9 96.4 0L443.8 414c27.9-16.9 44.9-47.1 44.9-79.6v-37.7l-11.6-17.5z" fill="url(#m365d)"/>
+    <path d="M443.8 97.9 304.2 13.4C275.5-4 239.8-4.5 210.6 11.8l-2.8 1.7a93.13 93.13 0 0 0-44.9 79.7v110.4l44.9-27.2c29.6-17.9 66.7-17.9 96.4 0l139.6 84.5c27 16.3 43.8 45.2 44.9 76.6 0-1 .1-2 .1-3.1V177.6c-.1-32.6-17.1-62.8-45-79.7" fill="url(#m365e)"/>
+    <path d="M443.8 97.9 304.2 13.4C275.5-4 239.8-4.5 210.6 11.8l-2.8 1.7a93.13 93.13 0 0 0-44.9 79.7v110.4l44.9-27.2c29.6-17.9 66.7-17.9 96.4 0l139.6 84.5c27 16.3 43.8 45.2 44.9 76.6 0-1 .1-2 .1-3.1V177.6c-.1-32.6-17.1-62.8-45-79.7" fill="url(#m365f)"/>
+  </g>
+  <text y="62" text-anchor="middle" class="label">Microsoft 365</text>
+  <text y="79" text-anchor="middle" class="sub">Cloud</text>
+</g>
+
+<!-- Microsoft Entra ID official icon -->
+<g transform="translate(290 91)">
+  <circle r="34" fill="#101820" stroke="#2f81f7" stroke-width="2"/>
+  <g transform="translate(-21 -21) scale(2.35)">
+    <path d="m3.802 14.032c.388.242 1.033.511 1.715.511.621 0 1.198-.18 1.676-.487l1.807-1.129V17c-.286 0-.574-.078-.824-.234z" fill="#225086"/>
+    <path d="M7.853 1.507.353 9.967c-.579.654-.428 1.642.323 2.111l3.126 1.954c.388.242 1.033.511 1.715.511.621 0 1.198-.18 1.676-.487l1.807-1.129-4.364-2.728L9.001 5.275V1c-.424 0-.848.169-1.148.507" fill="#6df"/>
+    <polygon points="4.636 10.199 4.688 10.231 9 12.927 9.001 12.927 9.001 5.276 9 5.275" fill="#cbf8ff"/>
+    <path d="M17.324 12.078c.751-.469.902-1.457.323-2.111l-4.921-5.551a3.1 3.1 0 0 0-1.313-.291c-.925 0-1.752.399-2.302 1.026l-.109.123 4.364 4.924-4.365 2.728V17c.287 0 .573-.078.823-.234z" fill="#074793"/>
+    <path d="M9.001 1v4.275l.109-.123c.55-.627 1.377-1.026 2.302-1.026.472 0 .916.107 1.313.291l-2.579-2.909A1.54 1.54 0 0 0 9.001 1" fill="#0294e4"/>
+    <polygon points="13.365 10.199 9.001 5.276 9.001 12.926" fill="#96bcc2"/>
+  </g>
+  <text y="62" text-anchor="middle" class="label">Entra ID</text>
+  <text y="79" text-anchor="middle" class="sub">Identity</text>
+</g>
+
+<!-- Microsoft Intune official icon -->
+<g transform="translate(480 91)">
+  <circle r="34" fill="#101820" stroke="#2f81f7" stroke-width="2"/>
+  <g transform="translate(-20 -19.5) scale(.10)">
+    <path d="M.685 65.852C.685 14.765 67.486-13.203 111.616 19.408l95.935 70.846 80.963-45.881c42.791-23.334 111.36-6.598 112.171 57.186v235.063c0 51.088-64.84 77.721-108.97 45.11l-97.684-72.392-81.058 45.89C69.778 378.784.753 360.714.753 298.637.753 224.124.685 252.734.685 65.852Z" fill="url(#intune0)"/>
+    <path d="M.685 65.852C.685 14.765 67.486-13.203 111.616 19.408l95.935 70.846 80.963-45.881c42.791-23.334 111.36-6.598 112.171 57.186v235.063c0 51.088-64.84 77.721-108.97 45.11l-97.684-72.392-81.058 45.89C69.778 378.784.753 360.714.753 298.637.753 224.124.685 252.734.685 65.852Z" fill="url(#intune1)"/>
+    <path d="M.685 65.852C.685 14.765 67.486-13.203 111.616 19.408l95.935 70.846 80.963-45.881c42.791-23.334 111.36-6.598 112.171 57.186v235.063c0 51.088-64.84 77.721-108.97 45.11l-97.684-72.392-81.058 45.89C69.778 378.784.753 360.714.753 298.637.753 224.124.685 252.734.685 65.852Z" fill="url(#intune2)"/>
+    <path d="M111.616 19.408C67.486-13.203.685 14.765.685 65.852v229.89c0-5.589 2.848-16.716 2.848-16.716 13.162-43.025 69.116-59.157 107.827-30.803l180.355 133.509c44.13 32.611 108.97 5.978 108.97-45.11V101.559c0 43.642-57.042 87.452-110.93 49.492z" fill="url(#intune3)"/>
+    <path d="M111.616 149.691C67.486 117.08.685 145.048.685 196.135V65.852C.685 14.765 67.486-13.203 111.616 19.408l178.139 131.643c53.888 37.96 110.93-5.85 110.93-49.492V234.89c0 51.088-66.8 79.056-110.93 46.444z" fill="url(#intune6)"/>
+  </g>
+  <text y="62" text-anchor="middle" class="label">Intune</text>
+  <text y="79" text-anchor="middle" class="sub">Devices</text>
+</g>
+
+<!-- PowerShell official icon -->
+<g transform="translate(670 91)">
+  <circle r="34" fill="#101820" stroke="#2f81f7" stroke-width="2"/>
+  <g transform="translate(-21 -21) scale(1.75)">
+    <path fill="#146FBF" d="M.819 21h18.23c.568 0 1.135-.462 1.265-1.032l3.659-15.936c.131-.57-.224-1.032-.792-1.032H4.951c-.568 0-1.135.462-1.265 1.032L.027 19.968C-.104 20.538.251 21 .819 21zm15.63-4.295c.511 0 .925.412.928.92a.926.926 0 0 1-.928.92H12.01a.927.927 0 0 1-.934-.92.926.926 0 0 1 .928-.92h4.445zm-11.639.306 7.42-5.358v-.11L7.568 6.598c-.38-.403-.341-1.055.088-1.457.429-.402 1.086-.4 1.466.004l5.594 5.934c.317.337.341.846.09 1.239-.076.154-.234.322-.514.519l-8.229 5.892c-.449.326-1.094.205-1.44-.269-.346-.475-.263-1.123.187-1.449z"/>
+  </g>
+  <text y="62" text-anchor="middle" class="label">PowerShell</text>
+  <text y="79" text-anchor="middle" class="sub">Scripts</text>
+</g>
+
+<!-- Power Automate official icon -->
+<g transform="translate(860 91)">
+  <circle r="34" fill="#101820" stroke="#2f81f7" stroke-width="2"/>
+  <g transform="translate(-22 -18) scale(.46)">
+    <path d="M63 10 29 48-5 10h68Z" fill="url(#pa0)"/>
+    <path d="M-5 86 63 10l34 38-34 38H-5Z" fill="url(#pa1)"/>
+    <path d="M-5 86 63 10l17 19-51 57H-5Z" fill="url(#pa2)"/>
+  </g>
+  <text y="62" text-anchor="middle" class="label">Power Automate</text>
+  <text y="79" text-anchor="middle" class="sub">Automation</text>
+</g>
+</svg>
