@@ -147,11 +147,11 @@
 <text x="1096" y="306" class="h" font-size="15">↗  CURRENTLY BUILDING</text>
 <g class="body" font-size="12">
  <circle cx="1098" cy="348" r="5" fill="#2f81f7"/><line x1="1098" y1="353" x2="1098" y2="488" stroke="#275477"/>
- <text x="1116" y="348" font-weight="700">HRMDM Identity Manager</text><text x="1116" y="367" class="muted">Identity lifecycle & onboarding</text>
+ <text x="1116" y="348" font-weight="700">HRMDM Identity Manager</text><text x="1116" y="367" class="muted">Identity lifecycle &amp; onboarding</text>
  <rect x="1280" y="333" width="82" height="22" rx="8" fill="#073b6d"/><text x="1321" y="348" text-anchor="middle" fill="#7cc7ff" font-size="10">IN PROGRESS</text>
- <circle cx="1098" cy="398" r="5" fill="#2f81f7"/><text x="1116" y="398" font-weight="700">Intune Policy Auditor</text><text x="1116" y="417" class="muted">Policy analysis & evidence</text>
+ <circle cx="1098" cy="398" r="5" fill="#2f81f7"/><text x="1116" y="398" font-weight="700">Intune Policy Auditor</text><text x="1116" y="417" class="muted">Policy analysis &amp; evidence</text>
  <rect x="1300" y="383" width="62" height="22" rx="8" fill="#123f22"/><text x="1331" y="398" text-anchor="middle" fill="#78d98a" font-size="10">ACTIVE</text>
- <circle cx="1098" cy="448" r="5" fill="#2f81f7"/><text x="1116" y="448" font-weight="700">Automation Workflows</text><text x="1116" y="467" class="muted">PowerShell & Microsoft 365</text>
+ <circle cx="1098" cy="448" r="5" fill="#2f81f7"/><text x="1116" y="448" font-weight="700">Automation Workflows</text><text x="1116" y="467" class="muted">PowerShell &amp; Microsoft 365</text>
  <rect x="1294" y="433" width="68" height="22" rx="8" fill="#37214f"/><text x="1328" y="448" text-anchor="middle" fill="#d7a7ff" font-size="10">ONGOING</text>
  <circle cx="1098" cy="498" r="5" fill="#2f81f7"/><text x="1116" y="498" font-weight="700">Internal IT Tools</text><text x="1116" y="517" class="muted">Practical admin tooling</text>
 </g>
