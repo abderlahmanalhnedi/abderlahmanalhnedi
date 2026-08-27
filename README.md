@@ -15,7 +15,7 @@
 
 <br><br>
 
-<img src="./assets/animated-pipeline.svg" width="100%" alt="Animated Microsoft infrastructure pipeline" />
+<img src="./assets/live-automation-pipeline.svg" width="100%" alt="Animated Microsoft infrastructure pipeline with official product icons" />
 
 </div>
 
@@ -25,19 +25,31 @@
 
 > 💡 **I build practical IT tools, automate repetitive administration, and connect infrastructure, cloud services and security.**
 
+### 🎯 Core Focus
+
 <div align="center">
 
-### 🎯 Focus
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0A66C2?style=for-the-badge&logo=windows&logoColor=white)
+![Security](https://img.shields.io/badge/Security-238636?style=for-the-badge&logo=shield&logoColor=white)
 
-☁️ **Microsoft 365** · 🔐 **Entra ID** · 💻 **Intune** · 🏢 **Active Directory** · 🛡️ **Security**
+</div>
 
-### ⚡ Build & Automate
+### ⚡ What I Build
 
-⚙️ **PowerShell Automation** · 🔌 **APIs & Integrations** · 🧰 **Internal IT Tools** · 🐳 **Containers**
+<div align="center">
 
-### 🧠 Solve & Improve
+**⚙️ PowerShell Automation** &nbsp;•&nbsp; **🔌 API Integrations** &nbsp;•&nbsp; **🧰 Internal IT Tools** &nbsp;•&nbsp; **🐳 Containerized Services**
 
-🔍 **Troubleshooting** · 🧩 **System Integration** · 📈 **Optimization** · 🚀 **Better IT Operations**
+</div>
+
+### 🧠 How I Work
+
+<div align="center">
+
+**🔍 Troubleshoot** &nbsp;→&nbsp; **🧩 Connect Systems** &nbsp;→&nbsp; **🤖 Automate** &nbsp;→&nbsp; **📈 Optimize**
 
 </div>
 
