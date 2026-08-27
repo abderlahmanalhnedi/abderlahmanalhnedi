@@ -4,7 +4,7 @@
 
 ### ⚙️ IT Infrastructure · ☁️ Microsoft Cloud · 🤖 Automation · 🛡️ Security
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=58B8FF&center=true&vCenter=true&width=820&lines=Microsoft+365+%E2%86%92+Entra+ID+%E2%86%92+Intune+%E2%86%92+Automation;PowerShell+%E2%80%A2+Infrastructure+%E2%80%A2+Security;Building+tools+that+solve+real+IT+problems;Automate+the+boring+stuff+%E2%9A%A1" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=650&color=58B8FF&center=true&vCenter=true&width=860&lines=%E2%98%81%EF%B8%8F+Microsoft+365+%E2%86%92+%F0%9F%94%90+Entra+ID+%E2%86%92+%F0%9F%92%BB+Intune;%E2%9A%99%EF%B8%8F+PowerShell+%E2%86%92+Automation+%E2%86%92+Better+IT;%F0%9F%9B%A1%EF%B8%8F+Secure+it+%E2%80%A2+%F0%9F%A4%96+Automate+it+%E2%80%A2+%F0%9F%9A%80+Improve+it;Building+tools+that+solve+real+IT+problems+%E2%9A%A1" alt="Animated introduction" />
 
 <br>
 
@@ -13,33 +13,63 @@
 [![Stars](https://img.shields.io/github/stars/abderlahmanalhnedi?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars)](https://github.com/abderlahmanalhnedi?tab=repositories)
 ![Profile Views](https://komarev.com/ghpvc/?username=abderlahmanalhnedi&style=for-the-badge)
 
+<br><br>
+
+<img src="./assets/animated-pipeline.svg" width="100%" alt="Animated Microsoft infrastructure pipeline" />
+
 </div>
 
----
+<img src="./assets/pulse-divider.svg" width="100%" alt="" />
 
 ## 👨‍💻 About Me
 
-> 💡 I build practical IT tools, automate repetitive administration, and enjoy connecting infrastructure, cloud services and security.
+> 💡 **I build practical IT tools, automate repetitive administration, and connect infrastructure, cloud services and security.**
 
-- ☁️ **Microsoft 365 / Entra ID**
-- 💻 **Microsoft Intune / Modern Workplace**
-- 🏢 **Active Directory / Hybrid Infrastructure**
-- ⚙️ **PowerShell / Automation**
-- 🛡️ **Security / Configuration Management**
-- 🐳 **Docker / Self-hosted Services**
-- 🔌 **APIs / Integrations**
-- 🧰 **Internal IT Tooling**
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🎯 Focus
+
+- ☁️ Microsoft 365
+- 🔐 Entra ID
+- 💻 Intune
+- 🏢 Active Directory
+- ⚙️ PowerShell
+- 🛡️ Security
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 What I enjoy
+
+- 🤖 Automating repetitive work
+- 🔌 Connecting APIs and systems
+- 🧰 Building internal IT tools
+- 🐳 Running containerized services
+- 🔍 Troubleshooting infrastructure
+- 🚀 Improving IT operations
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="./assets/ops-console.svg" width="100%" alt="Animated IT operations console" />
+
+</div>
+
+<img src="./assets/pulse-divider.svg" width="100%" alt="" />
 
 ## 🚀 Currently Building
 
 | Project | Status | Focus |
 |---|---|---|
-| 🧑‍💼 **HRMDM Identity Manager** | ![In Progress](https://img.shields.io/badge/IN_PROGRESS-1f6feb?style=flat-square) | Identity lifecycle, onboarding & workflow automation |
-| 🛡️ **Intune Policy Auditor** | ![Active](https://img.shields.io/badge/ACTIVE-238636?style=flat-square) | Policy analysis, conflicts & evidence |
-| ⚙️ **Automation Workflows** | ![Ongoing](https://img.shields.io/badge/ONGOING-8957e5?style=flat-square) | PowerShell & Microsoft 365 automation |
-| 🧰 **IT Tools** | ![Continuous](https://img.shields.io/badge/CONTINUOUS-b86e00?style=flat-square) | Small tools for everyday IT administration |
+| 🧑‍💼 **HRMDM Identity Manager** | ![In Progress](https://img.shields.io/badge/IN_PROGRESS-1f6feb?style=flat-square) | Identity lifecycle, onboarding and workflow automation |
+| 🛡️ **Intune Policy Auditor** | ![Active](https://img.shields.io/badge/ACTIVE-238636?style=flat-square) | Policy analysis, conflicts and evidence |
+| ⚙️ **Automation Workflows** | ![Ongoing](https://img.shields.io/badge/ONGOING-8957e5?style=flat-square) | PowerShell and Microsoft 365 automation |
+| 🧰 **IT Tools** | ![Continuous](https://img.shields.io/badge/CONTINUOUS-b86e00?style=flat-square) | Practical tools for everyday IT administration |
 
 ---
 
@@ -47,7 +77,7 @@
 
 <div align="center">
 
-### ☁️ Microsoft & Infrastructure
+### ☁️ Microsoft and Infrastructure
 
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -55,7 +85,7 @@
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0A66C2?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-### ⚙️ Automation & Development
+### ⚙️ Automation and Development
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,7 +102,7 @@
 
 </div>
 
----
+<img src="./assets/pulse-divider.svg" width="100%" alt="" />
 
 ## ⭐ Featured Projects
 
@@ -118,20 +148,6 @@ PowerShell utility for Microsoft 365 administrators.
 
 ---
 
-## 🧭 My IT Flow
-
-```text
-☁️ Microsoft 365 ─────┐
-🔐 Entra ID ──────────┤
-💻 Intune ────────────┤
-🏢 Active Directory ──┼──► ⚙️ Automation ──► 🚀 Better IT Operations
-🟦 PowerShell ────────┤
-🛡️ Security ──────────┤
-🔌 APIs ──────────────┘
-```
-
----
-
 ## 🐍 Live Contribution Activity
 
 <div align="center">
@@ -142,9 +158,13 @@ PowerShell utility for Microsoft 365 administrators.
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/abderlahmanalhnedi/abderlahmanalhnedi/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2100&pause=500&color=39D353&center=true&vCenter=true&width=720&lines=commit+%E2%86%92+build+%E2%86%92+test+%E2%86%92+automate+%E2%86%92+repeat;keep+learning+%E2%80%A2+keep+building+%E2%80%A2+keep+improving" alt="Animated workflow text" />
+
 </div>
 
----
+<img src="./assets/pulse-divider.svg" width="100%" alt="" />
 
 <div align="center">
 
