@@ -29,22 +29,22 @@
 
 ### 🎯 Core Focus
 
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0A66C2?style=flat-square&logo=windows&logoColor=white)
-![Security](https://img.shields.io/badge/Security-238636?style=flat-square)
+<kbd>☁️ Microsoft 365</kbd>
+<kbd>🔐 Entra ID</kbd>
+<kbd>💻 Intune</kbd>
+<kbd>🏢 Active Directory</kbd>
+<kbd>🛡️ Security</kbd>
 
-<br>
+<br><br>
 
 ### ⚡ What I Build
 
-![PowerShell Automation](https://img.shields.io/badge/PowerShell_Automation-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![API Integrations](https://img.shields.io/badge/API_Integrations-6f42c1?style=flat-square)
-![Internal IT Tools](https://img.shields.io/badge/Internal_IT_Tools-0B6EA8?style=flat-square)
-![Containers](https://img.shields.io/badge/Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+<kbd>⚙️ PowerShell Automation</kbd>
+<kbd>🔌 API Integrations</kbd>
+<kbd>🧰 Internal IT Tools</kbd>
+<kbd>🐳 Containers</kbd>
 
-<br>
+<br><br>
 
 ### 🧠 How I Work
 
