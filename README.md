@@ -25,34 +25,21 @@
 
 > 💡 **I build practical IT tools, automate repetitive administration, and connect infrastructure, cloud services and security.**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
 ### 🎯 Focus
 
-- ☁️ Microsoft 365
-- 🔐 Entra ID
-- 💻 Intune
-- 🏢 Active Directory
-- ⚙️ PowerShell
-- 🛡️ Security
+☁️ **Microsoft 365** · 🔐 **Entra ID** · 💻 **Intune** · 🏢 **Active Directory** · 🛡️ **Security**
 
-</td>
-<td width="50%" valign="top">
+### ⚡ Build & Automate
 
-### 🧠 What I enjoy
+⚙️ **PowerShell Automation** · 🔌 **APIs & Integrations** · 🧰 **Internal IT Tools** · 🐳 **Containers**
 
-- 🤖 Automating repetitive work
-- 🔌 Connecting APIs and systems
-- 🧰 Building internal IT tools
-- 🐳 Running containerized services
-- 🔍 Troubleshooting infrastructure
-- 🚀 Improving IT operations
+### 🧠 Solve & Improve
 
-</td>
-</tr>
-</table>
+🔍 **Troubleshooting** · 🧩 **System Integration** · 📈 **Optimization** · 🚀 **Better IT Operations**
+
+</div>
 
 <div align="center">
 
