@@ -1,57 +1,111 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="150" viewBox="0 0 960 150">
-<defs>
-  <linearGradient id="line" x1="0" x2="1">
-    <stop offset="0" stop-color="#58a6ff"/>
-    <stop offset="1" stop-color="#2f81f7"/>
-  </linearGradient>
-  <filter id="glow">
-    <feGaussianBlur stdDeviation="3" result="b"/>
-    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
-</defs>
-<rect width="960" height="150" rx="18" fill="#0d1117" stroke="#30363d"/>
-<text x="480" y="28" text-anchor="middle" fill="#8b949e" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2">LIVE AUTOMATION PIPELINE</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="190" viewBox="0 0 960 190">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#2f81f7"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title{fill:#8b949e;font-family:Arial,Helvetica,sans-serif;font-size:13px;letter-spacing:2px}
+      .label{fill:#f0f6fc;font-family:Arial,Helvetica,sans-serif;font-size:12px;font-weight:700}
+      .sub{fill:#8b949e;font-family:Arial,Helvetica,sans-serif;font-size:11px}
+      .blueStroke{stroke:#58a6ff;stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round}
+    </style>
+  </defs>
 
-<path d="M100 78H860" stroke="#21262d" stroke-width="8" stroke-linecap="round"/>
-<path d="M100 78H860" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="18 18">
-  <animate attributeName="stroke-dashoffset" values="72;0" dur="1.7s" repeatCount="indefinite"/>
-</path>
+  <rect width="960" height="190" rx="18" fill="#0d1117" stroke="#30363d"/>
+  <text x="480" y="28" text-anchor="middle" class="title">LIVE AUTOMATION PIPELINE</text>
 
-<g font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="700" text-anchor="middle">
-  <g transform="translate(100 78)">
-    <circle r="27" fill="#101820" stroke="#2f81f7"/>
-    <text y="4" fill="#f0f6fc">M365</text>
-    <text y="48" fill="#8b949e">Cloud</text>
-  </g>
-  <g transform="translate(290 78)">
-    <circle r="27" fill="#101820" stroke="#2f81f7"/>
-    <text y="4" fill="#f0f6fc">Entra</text>
-    <text y="48" fill="#8b949e">Identity</text>
-  </g>
-  <g transform="translate(480 78)">
-    <circle r="27" fill="#101820" stroke="#2f81f7"/>
-    <text y="4" fill="#f0f6fc">Intune</text>
-    <text y="48" fill="#8b949e">Devices</text>
-  </g>
-  <g transform="translate(670 78)">
-    <circle r="27" fill="#101820" stroke="#2f81f7"/>
-    <text y="4" fill="#f0f6fc">PS</text>
-    <text y="48" fill="#8b949e">PowerShell</text>
-  </g>
-  <g transform="translate(860 78)">
-    <circle r="27" fill="#101820" stroke="#2f81f7"/>
-    <text y="4" fill="#f0f6fc">AUTO</text>
-    <text y="48" fill="#8b949e">Automation</text>
-  </g>
-</g>
+  <!-- pipeline -->
+  <path d="M100 84H860" stroke="#21262d" stroke-width="10" stroke-linecap="round"/>
+  <path d="M100 84H860" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="18 18">
+    <animate attributeName="stroke-dashoffset" values="72;0" dur="1.7s" repeatCount="indefinite"/>
+  </path>
 
-<circle r="7" fill="#58a6ff" filter="url(#glow)">
-  <animateMotion dur="4.2s" repeatCount="indefinite" path="M100 78H860"/>
-</circle>
-<circle r="4" fill="#39d353">
-  <animateMotion dur="4.2s" begin="1.4s" repeatCount="indefinite" path="M100 78H860"/>
-</circle>
-<circle r="4" fill="#d2a8ff">
-  <animateMotion dur="4.2s" begin="2.8s" repeatCount="indefinite" path="M100 78H860"/>
-</circle>
+  <!-- moving data packets -->
+  <circle r="7" fill="#58a6ff" filter="url(#glow)">
+    <animateMotion dur="4.2s" repeatCount="indefinite" path="M100 84H860"/>
+  </circle>
+  <circle r="4" fill="#39d353">
+    <animateMotion dur="4.2s" begin="1.4s" repeatCount="indefinite" path="M100 84H860"/>
+  </circle>
+  <circle r="4" fill="#d2a8ff">
+    <animateMotion dur="4.2s" begin="2.8s" repeatCount="indefinite" path="M100 84H860"/>
+  </circle>
+
+  <!-- Microsoft 365 -->
+  <g transform="translate(100 84)">
+    <circle r="30" fill="#101820" stroke="#2f81f7" stroke-width="2"/>
+    <circle r="23" fill="none" stroke="#58a6ff" opacity=".18"/>
+    <g transform="translate(-13 -13)">
+      <rect width="11" height="11" fill="#f35325"/>
+      <rect x="14" width="11" height="11" fill="#81bc06"/>
+      <rect y="14" width="11" height="11" fill="#05a6f0"/>
+      <rect x="14" y="14" width="11" height="11" fill="#ffba08"/>
+    </g>
+    <text y="55" text-anchor="middle" class="label">Microsoft 365</text>
+    <text y="72" text-anchor="middle" class="sub">Cloud</text>
+  </g>
+
+  <!-- Entra ID -->
+  <g transform="translate(290 84)">
+    <circle r="30" fill="#101820" stroke="#2f81f7" stroke-width="2"/>
+    <circle r="23" fill="none" stroke="#58a6ff" opacity=".18"/>
+    <g transform="translate(0 0)">
+      <polygon points="0,-16 14,-4 5,15 -10,10 -16,-4" fill="#65b8ff" opacity=".95"/>
+      <polygon points="0,-16 14,-4 4,1 -10,10 -16,-4" fill="#2787d8"/>
+      <polygon points="4,1 14,-4 5,15 -10,10" fill="#4aa8f0"/>
+      <path d="M-5 6L0-7L6 7L2 5L0 0L-2 5Z" fill="#dff2ff"/>
+    </g>
+    <text y="55" text-anchor="middle" class="label">Entra ID</text>
+    <text y="72" text-anchor="middle" class="sub">Identity</text>
+  </g>
+
+  <!-- Intune -->
+  <g transform="translate(480 84)">
+    <circle r="30" fill="#101820" stroke="#2f81f7" stroke-width="2"/>
+    <circle r="23" fill="none" stroke="#58a6ff" opacity=".18"/>
+    <g transform="translate(0 0)" class="blueStroke">
+      <rect x="-15" y="-12" width="21" height="15" rx="2"/>
+      <path d="M-9 8H0M-4.5 3V8"/>
+      <rect x="9" y="-14" width="9" height="20" rx="2"/>
+      <circle cx="13.5" cy="2.5" r="1.2" fill="#58a6ff" stroke="none"/>
+      <path d="M-12 -7H3"/>
+    </g>
+    <text y="55" text-anchor="middle" class="label">Intune</text>
+    <text y="72" text-anchor="middle" class="sub">Devices</text>
+  </g>
+
+  <!-- PowerShell -->
+  <g transform="translate(670 84)">
+    <circle r="30" fill="#101820" stroke="#2f81f7" stroke-width="2"/>
+    <circle r="23" fill="none" stroke="#58a6ff" opacity=".18"/>
+    <g transform="rotate(-7)">
+      <rect x="-17" y="-12" width="34" height="24" rx="4" fill="#2671be" stroke="#6db7ff" stroke-width="1.5"/>
+      <path d="M-10 -6L-2 0L-10 6" fill="none" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M1 6H9" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round"/>
+    </g>
+    <text y="55" text-anchor="middle" class="label">PowerShell</text>
+    <text y="72" text-anchor="middle" class="sub">Scripts</text>
+  </g>
+
+  <!-- Automation -->
+  <g transform="translate(860 84)">
+    <circle r="30" fill="#101820" stroke="#2f81f7" stroke-width="2"/>
+    <circle r="23" fill="none" stroke="#58a6ff" opacity=".18"/>
+    <g class="blueStroke">
+      <circle r="8"/>
+      <circle r="3" fill="#58a6ff" stroke="none"/>
+      <path d="M0-18V-13M0 13V18M-18 0H-13M13 0H18M-13-13L-9-9M13-13L9-9M-13 13L-9 9M13 13L9 9"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="7s" repeatCount="indefinite"/>
+    </g>
+    <text y="55" text-anchor="middle" class="label">Automation</text>
+    <text y="72" text-anchor="middle" class="sub">Operations</text>
+  </g>
 </svg>
