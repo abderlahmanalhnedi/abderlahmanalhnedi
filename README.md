@@ -25,31 +25,30 @@
 
 > 💡 **I build practical IT tools, automate repetitive administration, and connect infrastructure, cloud services and security.**
 
-### 🎯 Core Focus
-
 <div align="center">
 
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0A66C2?style=for-the-badge&logo=windows&logoColor=white)
-![Security](https://img.shields.io/badge/Security-238636?style=for-the-badge&logo=shield&logoColor=white)
+### 🎯 Core Focus
 
-</div>
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0A66C2?style=flat-square&logo=windows&logoColor=white)
+![Security](https://img.shields.io/badge/Security-238636?style=flat-square)
+
+<br>
 
 ### ⚡ What I Build
 
-<div align="center">
+![PowerShell Automation](https://img.shields.io/badge/PowerShell_Automation-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![API Integrations](https://img.shields.io/badge/API_Integrations-6f42c1?style=flat-square)
+![Internal IT Tools](https://img.shields.io/badge/Internal_IT_Tools-0B6EA8?style=flat-square)
+![Containers](https://img.shields.io/badge/Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**⚙️ PowerShell Automation** &nbsp;•&nbsp; **🔌 API Integrations** &nbsp;•&nbsp; **🧰 Internal IT Tools** &nbsp;•&nbsp; **🐳 Containerized Services**
-
-</div>
+<br>
 
 ### 🧠 How I Work
 
-<div align="center">
-
-**🔍 Troubleshoot** &nbsp;→&nbsp; **🧩 Connect Systems** &nbsp;→&nbsp; **🤖 Automate** &nbsp;→&nbsp; **📈 Optimize**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=450&color=58B8FF&center=true&vCenter=true&width=760&lines=%F0%9F%94%8D+Troubleshoot+%E2%86%92+%F0%9F%A7%A9+Connect+Systems+%E2%86%92+%E2%9A%99%EF%B8%8F+Automate;%F0%9F%A4%96+Automate+%E2%86%92+%F0%9F%93%88+Optimize+%E2%86%92+%F0%9F%9A%80+Improve" alt="Animated work process" />
 
 </div>
 
