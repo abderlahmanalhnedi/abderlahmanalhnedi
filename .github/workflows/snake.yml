@@ -2,7 +2,8 @@ name: Generate contribution snake
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
   schedule:
     - cron: "20 0 * * *"
   workflow_dispatch:
@@ -10,10 +11,15 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-snake
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
+
     steps:
       - name: Generate contribution snake
         uses: Platane/snk/svg-only@v3
@@ -27,6 +33,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
-          branch: output
+          target_branch: output
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
