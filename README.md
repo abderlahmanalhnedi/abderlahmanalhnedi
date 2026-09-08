@@ -157,7 +157,6 @@ Native, local-first macOS connection manager for SSH, SFTP, FTP, FTPS and FreeRD
 
 - 👥 [**Teams Membership Export**](https://github.com/abderlahmanalhnedi/Teams-Membership-Export) — PowerShell utility for Microsoft 365 / Teams membership reporting.
 - 🏠 [**hass-blitzerde**](https://github.com/abderlahmanalhnedi/hass-blitzerde) — Home Assistant integration work.
-- ⚙️ [**n8n workflows**](https://github.com/abderlahmanalhnedi/n8n-workflows) — Automation experiments and reusable workflow building blocks.
 
 ---
 
