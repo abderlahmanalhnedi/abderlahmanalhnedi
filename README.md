@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Abdelrahman Al Hnedi
 
-### ⚙️ IT Infrastructure · ☁️ Microsoft Cloud · 🤖 Automation · 🛡️ Security
+### ⚙️ IT Infrastructure · ☁️ Microsoft Cloud · 🔐 Identity & Security · 🤖 Automation · 🧩 App Engineering
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2300&pause=650&color=58B8FF&center=true&vCenter=true&width=860&lines=%E2%98%81%EF%B8%8F+Microsoft+365+%E2%86%92+%F0%9F%94%90+Entra+ID+%E2%86%92+%F0%9F%92%BB+Intune;%E2%9A%99%EF%B8%8F+PowerShell+%E2%86%92+Automation+%E2%86%92+Better+IT;%F0%9F%9B%A1%EF%B8%8F+Secure+it+%E2%80%A2+%F0%9F%A4%96+Automate+it+%E2%80%A2+%F0%9F%9A%80+Improve+it;Building+tools+that+solve+real+IT+problems+%E2%9A%A1" alt="Animated introduction" />
 
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-> 💡 **I build practical IT tools, automate repetitive administration, and connect infrastructure, cloud services and security.**
+> 💡 **I build security-minded IT tools and automation around Microsoft cloud, identity, endpoint management and infrastructure — plus cross-platform desktop software for real admin workflows.**
 
 <div align="center">
 
@@ -32,6 +32,7 @@
 <kbd>☁️ Microsoft 365</kbd>
 <kbd>🔐 Entra ID</kbd>
 <kbd>💻 Intune</kbd>
+<kbd>📨 Exchange Online</kbd>
 <kbd>🏢 Active Directory</kbd>
 <kbd>🛡️ Security</kbd>
 
@@ -40,6 +41,8 @@
 ### ⚡ What I Build
 
 <kbd>⚙️ PowerShell Automation</kbd>
+<kbd>🪟 Cross-Platform Admin Apps</kbd>
+<kbd>🍎 Native macOS Apps</kbd>
 <kbd>🔌 API Integrations</kbd>
 <kbd>🧰 Internal IT Tools</kbd>
 <kbd>🐳 Containers</kbd>
@@ -64,10 +67,11 @@
 
 | Project | Status | Focus |
 |---|---|---|
-| 🧑‍💼 **HRMDM Identity Manager** | ![In Progress](https://img.shields.io/badge/IN_PROGRESS-1f6feb?style=flat-square) | Identity lifecycle, onboarding and workflow automation |
-| 🛡️ **Intune Policy Auditor** | ![Active](https://img.shields.io/badge/ACTIVE-238636?style=flat-square) | Policy analysis, conflicts and evidence |
-| ⚙️ **Automation Workflows** | ![Ongoing](https://img.shields.io/badge/ONGOING-8957e5?style=flat-square) | PowerShell and Microsoft 365 automation |
-| 🧰 **IT Tools** | ![Continuous](https://img.shields.io/badge/CONTINUOUS-b86e00?style=flat-square) | Practical tools for everyday IT administration |
+| 📨 **Entra Mail.Send RBAC Tool** | ![Active](https://img.shields.io/badge/ACTIVE-238636?style=flat-square) | Least-privilege Exchange Online Application RBAC with a bilingual cross-platform GUI |
+| 🛡️ **Intune Policy Auditor** | ![Active](https://img.shields.io/badge/ACTIVE-238636?style=flat-square) | Local, read-only policy analysis, conflicts, evidence and reporting |
+| 🖥️ **RemoteHub** | ![Active](https://img.shields.io/badge/ACTIVE-238636?style=flat-square) | Native local-first macOS connection management for SSH, file transfer and RDP |
+| 🔐 **Identity & Lifecycle Automation** | ![Private R&D](https://img.shields.io/badge/PRIVATE_R%26D-8957e5?style=flat-square) | Onboarding, workflow automation and directory integration |
+| 🍎 **Apple Platform App Engineering** | ![Private R&D](https://img.shields.io/badge/PRIVATE_R%26D-8957e5?style=flat-square) | Native Apple-platform architecture, performance and UX |
 
 ---
 
@@ -80,6 +84,7 @@
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Exchange Online](https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge&logo=microsoftexchange&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0A66C2?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -87,9 +92,13 @@
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Avalonia](https://img.shields.io/badge/Avalonia-7B2BF9?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
 
 ### 🧩 Platforms
@@ -108,13 +117,13 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🖥️ RemoteHub
+### 📨 Entra Mail.Send RBAC Tool
 
-Native, local-first macOS connection manager.
+Cross-platform admin tool for scoping Exchange Online `Application Mail.Send` to a single shared mailbox.
 
-**SSH · SFTP · FTP · FTPS · FreeRDP**
+**PowerShell · Avalonia · .NET · Exchange Online**
 
-[![Open Project](https://img.shields.io/badge/OPEN_PROJECT-0B6EA8?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/abderlahmanalhnedi/RemoteHub-Public)
+[![Open Project](https://img.shields.io/badge/OPEN_PROJECT-0B6EA8?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/abderlahmanalhnedi/Entra-MailSend-SharedMailbox-RBAC-GUI)
 
 </td>
 
@@ -122,7 +131,7 @@ Native, local-first macOS connection manager.
 
 ### 🛡️ Intune Policy Auditor
 
-Read-only analysis tool for exported Microsoft Intune policies.
+Local, read-only analysis of exported Microsoft Intune policies with conflicts, evidence and traceable reports.
 
 **Python · FastAPI · Intune · Security**
 
@@ -132,17 +141,23 @@ Read-only analysis tool for exported Microsoft Intune policies.
 
 <td width="33%" valign="top">
 
-### 👥 Teams Membership Export
+### 🖥️ RemoteHub
 
-PowerShell utility for Microsoft 365 administrators.
+Native, local-first macOS connection manager for SSH, SFTP, FTP, FTPS and FreeRDP sessions.
 
-**PowerShell · Teams · Excel**
+**Swift · SwiftData · Keychain · Networking**
 
-[![Open Project](https://img.shields.io/badge/OPEN_PROJECT-0B6EA8?style=for-the-badge&logo=microsoftteams&logoColor=white)](https://github.com/abderlahmanalhnedi/Teams-Membership-Export)
+[![Open Project](https://img.shields.io/badge/OPEN_PROJECT-0B6EA8?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/abderlahmanalhnedi/RemoteHub-Public)
 
 </td>
 </tr>
 </table>
+
+### 🔧 More Public Tools
+
+- 👥 [**Teams Membership Export**](https://github.com/abderlahmanalhnedi/Teams-Membership-Export) — PowerShell utility for Microsoft 365 / Teams membership reporting.
+- 🏠 [**hass-blitzerde**](https://github.com/abderlahmanalhnedi/hass-blitzerde) — Home Assistant integration work.
+- ⚙️ [**n8n workflows**](https://github.com/abderlahmanalhnedi/n8n-workflows) — Automation experiments and reusable workflow building blocks.
 
 ---
 
